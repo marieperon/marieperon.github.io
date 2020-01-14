@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Je sais pas encore quoi mettre donc je tape n'importe quoi pour tester :p 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marieperon.bzh@gmail.com] 
