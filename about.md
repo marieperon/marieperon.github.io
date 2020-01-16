@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A propos
+permalink: /a-propos/
 ---
-
-Some information about you!
-
-### More Information
 
 Je sais pas encore quoi mettre donc je tape n'importe quoi pour tester :p 
 
-### Contact me
+### Contact
 
-[marieperon.bzh@gmail.com](marieperon.bzh@gmail.com)
+[marie@peron.ca](marie@peron.ca)
