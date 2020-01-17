@@ -9,5 +9,4 @@ fields:
   name: title
   label: title
 pages:
-- _posts/article-la-motivation-scolaire.md
 - _posts/article-motivation-scolaire.md
