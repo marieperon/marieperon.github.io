@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title: À propos
 permalink: "/a-propos/"
 
 ---
@@ -12,4 +12,4 @@ Je m'appelle Marie, je suis étudiante en psychologie. J'ai récemment terminé 
 
 Courriel: [marie@peron.ca](marie@peron.ca)
 
-Youtube: [https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ?view_as=subscriber](https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ?view_as=subscriber "https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ?view_as=subscriber")
+Youtube: [https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ](https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ "https://www.youtube.com/channel/UC_TbptX7Ou0EBOxC0-Wn2tQ")
