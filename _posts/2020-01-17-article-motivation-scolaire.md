@@ -1,6 +1,6 @@
 ---
-layout: ''
-title: 'Article motivation scolaire? '
+layout: post
+title: Article - La motivation scolaire
 
 ---
 **Problématique**
