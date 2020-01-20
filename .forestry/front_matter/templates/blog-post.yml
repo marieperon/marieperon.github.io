@@ -4,7 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  description: Ne pas changer
 - type: text
   name: title
-  label: title
+  label: Titre
+  description: Titre du post
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Description
+  description: L'extrait qui est affiche sur la page d'accueil
