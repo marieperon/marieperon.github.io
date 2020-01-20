@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Article - La motivation scolaire
+excerpt: Le but de cette recherche est d’en apprendre d’avantage sur la motivation scolaire et les facteurs qui la favorisent.
 ---
 
 ## Problématique
