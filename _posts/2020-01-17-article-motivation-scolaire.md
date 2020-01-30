@@ -5,7 +5,7 @@ excerpt: Le but de cette recherche est d’en apprendre d’avantage sur la moti
   scolaire et les facteurs qui la favorisent.
 
 ---
-Écrit le 24 novembre 2014
+_Écrit le 24 novembre 2014_
 
 ## Problématique
 
