@@ -16,3 +16,5 @@ fields:
     required: false
   label: Description
   description: L'extrait qui est affiche sur la page d'accueil
+pages:
+- _posts/l-estime-de-soi.md
