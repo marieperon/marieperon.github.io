@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: 'Article - L''estime de soi '
 excerpt: ''
 
