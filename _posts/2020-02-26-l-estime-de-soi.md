@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Article - L''estime de soi '
-excerpt: ''
+excerpt: 'L’estime de soi est un concept très intéressant à étudier car il fait partie
+  intégrante de nos vies. '
 
 ---
 L’estime de soi est un concept très intéressant à étudier car il fait partie intégrante de nos vies. D’ailleurs, Bleidorn et al. (2016) à mis en lumière les tendances interculturelles de ce concept. D’abord, on remarque que les hommes ont souvent une meilleure estime de soi que les femmes et ce peu importe la culture d’origine. Ensuite, l’estime de soi a tendance à augmenter entre la fin de l’adolescence et le milieu de l’âge adulte. Plusieurs hypothèses ont été émises pour expliquer ces similitudes. Il y aurait notamment l’existence potentielle d’influences biologiques, l’existence de moments de vie importants à des âges similaires dans les différentes cultures (ex: les premiers amours, le premier travail, etc.) ou encore l’importance accordée à l’apparence physique des femmes dans la majorité des cultures. Sur ce point Armitage (2012), a remarqué que les femmes se sentent souvent plus menacées par l'évaluation de leur corps et de leur poids que les hommes. Ceci suggère selon lui, que l’apparence physique aurait plus d’importance pour l’estime de soi des femmes que pour celle des hommes.
