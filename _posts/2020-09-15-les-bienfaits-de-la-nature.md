@@ -6,7 +6,7 @@ excerpt: ''
 ---
 # **Les bienfaits de la nature:**
 
-Avant la révolution industrielle, l'être humain était comme tous les autres animaux très proche de la nature. Nous vivions dans les campagnes au rythme des saisons. C'est avec l'industrialisation et l'urbanisation des 300 dernières années que nous nous sommes éloignés petit à petit de la nature pour nous regrouper en ville. Bien que ce fût bénéfique économiquement, les scientifiques observent aujourd'hui les impacts néfastes de ce déracinement sur notre santé tant mentale que physique.
+Avant la révolution industrielle, l'être humain était, comme tous les autres animaux, très proche de la nature. Nous vivions dans les campagnes au rythme des saisons. C'est avec l'industrialisation et l'urbanisation des 300 dernières années que nous nous sommes éloignés petit à petit de la nature pour nous regrouper en ville. Bien que ce fût bénéfique économiquement, les scientifiques observent aujourd'hui les impacts néfastes de ce déracinement sur notre santé tant mentale que physique.
 
 En effet, ces dernières années nous observons une augmentation du nombre de maladies auto-immune et d'allergies qui, selon les scientifiques, seraient en partie dues au manque d'exposition à la nature. En fait, vivre proche du vivant (par exemple d'une ferme), nous permettrait d'entrer en contact avec une multitude de bactéries. À terme cela enrichirait les défenses de notre système immunitaire. En vivant en ville, nous limitons énormément notre exposition à toutes ces bonnes bactéries et notre système immunitaire n'a pas l'occasion de se développer autant. Il est donc primordial de s'exposer à la nature et aux animaux par exemple en visitant des fermes ou en se baladant dans une forêt dès tout petit pour développer un bon système immunitaire.
 
@@ -34,7 +34,7 @@ Parmi les scientifiques ayant étudié les impacts de la nature sur notre santé
 
 Dans la même lignée, des études ont été faites pour observer l'impact sur les employés d'ajouter des plantes au travail. Dans leurs études, les scientifiques se sont rendu compte que le simple fait d'ajouter quelques plantes dans un espace de travail augmentait significativement le bien-être ainsi que l'efficacité des employés.
 
-Et vous? Comment vous sentez-vous au contacte de la nature? 
+Et vous? Comment vous sentez-vous au contacte de la nature?
 
 ##### Sources
 
